@@ -1,6 +1,8 @@
-<h1 align="center"> Olá, eu sou Carol 👋</h1>
-
+<h1 align="center">👨‍💻 Olá, eu sou Carol👋</h1>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/121266927/212063189-82aba6a1-9c29-4dde-93fe-843df2bf5ef6.gif" width="400" height="320"/> 
 <p>
+  
+
 <br>
 <a href = "https://website.vlopess.repl.co/" target="_blank"><img src="https://img.shields.io/badge/-Visite o meu site-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
 </p>
@@ -20,21 +22,10 @@
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 
 </p>
+<a href = "mailto:victorldev8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"</a>
+<a href = "https://medium.com/@Victorldev" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
-
-<div align="center">
-  <a href="https://github.com/CarolLimav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolLimav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolLimav&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
-
-
- 
-<div>
-  <a href="https://instagram.com/carolinelimav_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:carol.limavitoria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caroline-lima-596a5b216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-          
-
- 
-
+<img src="https://komarev.com/ghpvc/?username=vlopess&label=Profile%20views&color=0e75b6&style=flat" alt="vlopess" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlopess&hide_progress=true&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vlopess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
