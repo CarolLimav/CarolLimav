@@ -1,5 +1,11 @@
-### Olá! Eu sou Carol 👋
+<h1 align="center"> Olá, eu sou Carol 👋</h1>
 
+<p>
+<br>
+<a href = "https://website.vlopess.repl.co/" target="_blank"><img src="https://img.shields.io/badge/-Visite o meu site-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
+</p>
+<h3>Languages, Frameworks, Tools and Learning:</h3>
+<p>  
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -13,6 +19,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 
+</p>
+
 
 <div align="center">
   <a href="https://github.com/CarolLimav">
@@ -20,7 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolLimav&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
-##
+
  
 <div>
   <a href="https://instagram.com/carolinelimav_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
