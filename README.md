@@ -1,11 +1,11 @@
-<h1 align="center">👨‍💻 Olá, eu sou Carol👋</h1>
+<h1 align="center">Olá, eu sou Carol👋</h1>
 
 <p>
   
 </p>
 <h3>Languages, Frameworks and Tools:</h3>
 <p>  
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
