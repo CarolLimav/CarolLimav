@@ -1,5 +1,6 @@
-<h1 align="center">Olá, eu sou Carol👋</h1>
+<h1 align="center">Hi, I am Carol👋</h1>
 
+<h2>About me:</h2> 
 <p>
   
 </p>
