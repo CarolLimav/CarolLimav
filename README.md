@@ -5,9 +5,7 @@
 # 💫 About me: 
  <ul>
    <li>Since my adolescence, technology has always been one of my passions </li>
-   <ul>
     <li> I am currently work with mobile app development, using Flutter and Dart.</li>
-   </ul>
    </li>
    <li>I am currently learning **Javascript, HTML and CSS </li>
  </ul>
