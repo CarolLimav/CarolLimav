@@ -6,7 +6,7 @@
 <p align="justify">Since my adolescence, technology has always been one of my passions. In order to cultivate this passion, I am currently pursuing a degree in Analysis and Systems Development at the Federal Institute of Bahia. Since then, I have been expanding my knowledge in the technology field, and I currently work with mobile app development, using the Dart programming language in conjunction with the Flutter framework.</p>
 
 
-#Languages, Frameworks and Tools:
+# Languages, Frameworks and Tools:
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
