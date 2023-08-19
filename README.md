@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I am Carol👋</h1>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400" height="320"/> 
 <p>
+
+# 💫 About me: 
+Since my adolescence, technology has always been one of my passions. In order to cultivate this passion, I am currently pursuing a degree in Analysis and Systems Development at the Federal Institute of Bahia. Since then, I have been expanding my knowledge in the technology field, and I currently work with mobile app development, using the Dart programming language in conjunction with the Flutter framework.
   
 </p>
 <h3>Languages, Frameworks and Tools:</h3>
