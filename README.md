@@ -3,7 +3,8 @@
 <p>
 
 # 💫 About me: 
-<p align="justify">Since my adolescence, technology has always been one of my passions. In order to cultivate this passion, I am currently pursuing a degree in Analysis and Systems Development at the Federal Institute of Bahia. Since then, I have been expanding my knowledge in the technology field, and I currently work with mobile app development, using the Dart programming language in conjunction with the Flutter framework.</p>
+- Since my adolescence, technology has always been one of my passions<br> - I am currently work with mobile app development, using Flutter and Dart.<br> - I am currently learning **Javascript, HTML and CSS
+<be> 
 
 
 # Languages, Frameworks and Tools:
