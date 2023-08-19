@@ -4,10 +4,10 @@
 
 # 💫 About me: 
  <ul>
-   <li>From a young age, I have always had a passion for technology </li>
+   <li>From a young age, I have always had a passion for technology. </li>
     <li> I am currently work with mobile app development, using Flutter and Dart.</li>
    </li>
-   <li>I am currently learning **Javascript, HTML and CSS </li>
+   <li>I am currently learning Javascript, HTML and CSS. </li>
  </ul>
 
 
