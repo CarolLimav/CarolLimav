@@ -4,6 +4,7 @@
 
 # 💫 About me: 
  <ul>
+   <li>I'm Carol, a Software Developer intern at SERPRO (Angular, Java and Spring Boot) </li>
    <li>From a young age, I have always had a passion for technology. </li>
     <li>I'm currently studying mobile application development, using Flutter and Dart. Furthermore, I am also learning  Javascript, HTML and CSS.</li>
    </li>
